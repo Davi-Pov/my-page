@@ -167,6 +167,16 @@ nav a{
     }
 }
 
+@media (max-width: 1367px){
+    .profile{
+        height: 120vh;
+    }
+
+    .projects{
+        height: 120vh;
+    }
+}
+
 @media (max-width: 1280px){
     .skills{
         padding-top: 45px;
